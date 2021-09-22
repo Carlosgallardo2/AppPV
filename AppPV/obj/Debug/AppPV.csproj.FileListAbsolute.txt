@@ -1,0 +1,11 @@
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.csproj.AssemblyReference.cache
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.Form1.resources
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.Form2.resources
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.Properties.Resources.resources
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.csproj.GenerateResource.cache
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.csproj.CoreCompileInputs.cache
+C:\Users\ccampos\source\repos\AppPV\AppPV\bin\Debug\AppPV.exe.config
+C:\Users\ccampos\source\repos\AppPV\AppPV\bin\Debug\AppPV.exe
+C:\Users\ccampos\source\repos\AppPV\AppPV\bin\Debug\AppPV.pdb
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.exe
+C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.pdb
