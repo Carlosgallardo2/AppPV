@@ -9,3 +9,14 @@ C:\Users\ccampos\source\repos\AppPV\AppPV\bin\Debug\AppPV.exe
 C:\Users\ccampos\source\repos\AppPV\AppPV\bin\Debug\AppPV.pdb
 C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.exe
 C:\Users\ccampos\source\repos\AppPV\AppPV\obj\Debug\AppPV.pdb
+C:\Users\gpiedra\Documents\AppPV\AppPV\bin\Debug\AppPV.exe.config
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.exe
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.pdb
+C:\Users\gpiedra\Documents\AppPV\AppPV\bin\Debug\AppPV.exe
+C:\Users\gpiedra\Documents\AppPV\AppPV\bin\Debug\AppPV.pdb
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.csprojResolveAssemblyReference.cache
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.Form1.resources
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.Form2.resources
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.MenuPrincipal.resources
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.Properties.Resources.resources
+C:\Users\gpiedra\Documents\AppPV\AppPV\obj\Debug\AppPV.csproj.GenerateResource.Cache
